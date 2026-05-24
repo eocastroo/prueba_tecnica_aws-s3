@@ -49,4 +49,6 @@ Se implementaron controles de seguridad siguiendo buenas prácticas DevSecOps:
 - Encryption at Rest
 - Versioning
 
+El pipeline puede integrarse con herramientas DevSecOps como tfsec para análisis estático de seguridad.
+
 ## Se realiza pruebas de CI/
