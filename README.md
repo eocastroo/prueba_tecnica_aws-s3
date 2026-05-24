@@ -48,3 +48,5 @@ Se implementaron controles de seguridad siguiendo buenas prácticas DevSecOps:
 - Public Access Block
 - Encryption at Rest
 - Versioning
+
+## Se realiza pruebas de CI/
